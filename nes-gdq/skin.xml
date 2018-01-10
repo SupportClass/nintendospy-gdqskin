@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="GDQ NES" author="chrishanel" type="nes">
+
+    <background name="Default" image="gdq-bg.png" />
+
+    <button name="a" image="action.png" x="326" y="178" width="108" height="108" />
+    <button name="b" image="action.png" x="272" y="178" width="108" height="108" />
+
+    <button name="start" image="select.png" x="210" y="209" width="71" height="45" />
+    <button name="select" image="select.png" x="156" y="209" width="71" height="45" />
+
+    <button name="up" image="up.png" x="74" y="161" width="55" height="68" />
+    <button name="down" image="down.png" x="75" y="196" width="55" height="68" />
+    <button name="left" image="left.png" x="50" y="185" width="68" height="55" />
+    <button name="right" image="right.png" x="85" y="185" width="68" height="55" />
+
+</skin>
